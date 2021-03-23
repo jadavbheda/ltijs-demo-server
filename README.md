@@ -1,14 +1,8 @@
-<div align="center">
-	<br>
-	<br>
-	<a href="https://cvmcosta.github.io/ltijs"><img width="360" src="https://raw.githubusercontent.com/Cvmcosta/ltijs/master/docs/logo-300.svg"></img></a>
-  <a href="https://site.imsglobal.org/certifications/coursekey/ltijs"​ target='_blank'><img width="80" src="https://www.imsglobal.org/sites/default/files/IMSconformancelogoREG.png" alt="IMS Global Certified" border="0"></img></a>
-</div>
+# Ltijs Demo Server with MySQL (instead of MongoDB)
 
-
-# Ltijs Demo Server
-
-> Ltijs v5 demo server
+> Ltijs v5 demo server that work with MySQL server
+> This project is forked from https://github.com/Cvmcosta/ltijs-demo-server, contains only MySQL related changes and may not maintain for future upgrades. 
+> This project for now uses https://github.com/jadavbheda/ltijs-sequelize instead of actual ltijs-sequelize till it fixes this issue https://github.com/Cvmcosta/ltijs-sequelize/issues/2 (I already raised PR for it)
 
 ### Usage
 
