@@ -18,13 +18,13 @@
   DB_USER=user
   DB_PASS=pass
   LTI_KEY=LTIKEY
+  PORT=5000
   ```
-  *DB_USER and DB_PASS are not required*
 
 - Run `npm install`
 
 - Run `npm start` 
 
 ### React application
-
- The code for the react application used with this project can be found [here](https://github.com/Cvmcosta/ltijs-demo-client).
+ * Demo server uses default react client build in `public` directory  
+ * The code for the react application used with this project can be found [here](https://github.com/Cvmcosta/ltijs-demo-client).
