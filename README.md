@@ -1,7 +1,9 @@
 # Ltijs Demo Server with MySQL (instead of MongoDB)
 
 > Ltijs v5 demo server that work with MySQL server
+ 
 > This project is forked from https://github.com/Cvmcosta/ltijs-demo-server, contains only MySQL related changes and may not maintain for future upgrades. 
+
 > This project for now uses https://github.com/jadavbheda/ltijs-sequelize instead of actual ltijs-sequelize till it fixes this issue https://github.com/Cvmcosta/ltijs-sequelize/issues/2 (I already raised PR for it)
 
 ### Usage
