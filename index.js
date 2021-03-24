@@ -64,7 +64,7 @@ const setup = async () => {
   await lti.registerPlatform({
     url: 'https://canvas.instructure.com',
     name: 'CD Canvas',
-    clientId: '123670000000000352',
+    clientId: '<CLIENT ID That you get from canvas `Developer Keys` after registering LTI1.3 app>',
     authenticationEndpoint: 'https://canvas.instructure.com/api/lti/authorize_redirect',
     accesstokenEndpoint: 'https://canvas.instructure.com/login/oauth2/token',
     authConfig: { method: 'JWK_SET', key: 'https://canvas.instructure.com/api/lti/security/jwks' }
